@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @Sowj1234
-- 👀 My name is Sowjanya G ...
-- 🌱 I’m currently learning Machine learning -- >Natural language processing , Artificial intelligence , Deep learning , OpenCV and lot more :))...
-- 💞️ I’m looking to collaborate on any of ML/AI probelem solving questions...
-- 📫 My contact no : +91-9342660369 (both call and whatsapp )
-- Email Id : sowjanayg2911@gmail.com
-- currentlly participating in 2 national level comepititions : E-yantra ( Geo-guide as theme ) , Smart India hackathon and Cyber-thon ( AI problem statement )
-- I have participated in college level competitions and solved tasks of different clubs
-- THAT'S MEE :))
+- 👀 My name is Sowjanya G.
+- 🌱 I had previously worked on  Machine learning -- >Natural language processing , Artificial intelligence , Deep learning , OpenCV projects. Presently working with web development projects in frameworks like Reactjs and Nextjs.
+- 📫 My contact no : +91-934266036 Email Id : sowjanayg2911@gmail.com
+- Participated in some national level competitions such as E-yantra ( Geo-guide as theme ) , Smart India hackathon and Cyber-thon ( AI problem statement )
+- I have solved 500+ DSA questions in C++ 
+
 
 <!---
 Sowj1234/Sowj1234 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
