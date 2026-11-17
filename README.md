@@ -3,7 +3,7 @@
 - 🌱 I had previously worked on  Machine learning -- >Natural language processing , Artificial intelligence , Deep learning , OpenCV projects. Presently working with web development projects in frameworks like Reactjs and Nextjs.
 - 📫 My contact no : +91-9342660369 Email Id : sowjanayg2026@gmail.com
 - Participated in some national level competitions such as E-yantra ( Geo-guide as theme ) , Smart India hackathon and Cyber-thon ( AI problem statement )
-- I have solved 600+ DSA questions in C++ 
+- I have solved over 1200+ DSA questions in C++ 
 
 
 <!---
